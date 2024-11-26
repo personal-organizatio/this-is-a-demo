@@ -19,7 +19,7 @@
     "cors": "2.8.4",
     "jsonwebtoken": "8.2.0",
     "bcryptjs": "2.4.3",
-    "debug": "3.1.0",
+    "debug": "1.1.0",
     "nodemailer": "4.6.4",
     "winston": "3.0.0",
     "passport": "0.4.0",
